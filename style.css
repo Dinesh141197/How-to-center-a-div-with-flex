@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+       
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35rem;
+    height: 50rem;
+    
+    
+}
+
+.container{
+    color: aqua;
+    background-color: red;
+    width: 30rem;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
